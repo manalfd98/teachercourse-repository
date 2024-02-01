@@ -1,0 +1,48 @@
+
+*{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-custom{
+    background-color: rgb(21, 21, 166);
+}
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+.container-fluid{
+	background: rgb(240, 240, 240);
+	width: 100%;
+	height: 100vh;
+	padding: 0px;
+
+}
+.form-container{
+	border: 1px solid white;
+	border-color: black;
+	padding: 40px 60px;
+	background: lightgrey;
+	margin-top: 5vh;
+	width: 100%;
+	height: 82vh;
+}
+.form-container form .error-msg{
+	margin: 10px;
+	display: block;
+	background-color: crimson;
+	color: white;
+	border-radius: 5px;
+	font-size: 20px;
+}
+h2{
+    color: black;
+    
+}
+
+.form-group{
+    padding: 5px;
+}
+
+.submit{
+    margin-top: 25px;
+}

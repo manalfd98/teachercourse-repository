@@ -1,0 +1,28 @@
+
+.navbar-custom{
+    background-color: rgb(21, 21, 166);
+}
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+	color: white;
+}
+.container-fluid{
+	background: rgb(240, 240, 240);
+	width: 100%;
+	height: 100vh;
+	padding: 0px;
+
+}
+.form-container{
+	border: 1px solid white;
+	border-color: black;
+	padding: 60px 60px;
+	background: lightgrey;
+	margin-top: 8vh;
+	width: 100%;
+	height: 60vh;
+}
+h2{
+    color: black;
+}

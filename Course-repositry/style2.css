@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+	
+}
+.sidebar {
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: rgb(61, 61, 61);
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+    
+  }
+  
+  .sidebar a {
+	display: block;
+	color: white;
+	padding: 16px;
+	text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .sidebar a:hover:not(.active) {
+	background-color: rgb(107, 106, 106);
+	color: white;
+  }
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
+  label.input{
+  	width: 12px;
+
+  }
